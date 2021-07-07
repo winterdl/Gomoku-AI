@@ -1,5 +1,6 @@
 commit.txt
-
+.vscode
+build
 # Prerequisites
 *.d
 

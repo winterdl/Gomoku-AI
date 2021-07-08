@@ -8,6 +8,8 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include/)
 
 set(
   GOMOKU_SRCS
+  src/ai.cpp
+  src/player.cpp
   src/main.cpp
   )
 

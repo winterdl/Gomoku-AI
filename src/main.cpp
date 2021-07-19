@@ -1,4 +1,11 @@
+#include <vector>
+#include <iostream>
+#include "board.hpp"
+#include "pawn.hpp"
+
 int	main(int ac, char **av)
 {
-	return 0;
+	Board	b(5);
+
+	b.display();
 }
